@@ -17,17 +17,15 @@ export default function About() {
               is a world-renowned center for research and education. We are located in the heart of Greenwich Village,
               one of the most vibrant and creative neighborhoods in New York City.
             </p>
+            <p style={{ marginBottom: '20px', fontSize: '1.1rem', lineHeight: '1.8' }}>
+              Our faculty are leaders in their fields, receiving numerous awards and honors.
+              We offer a wide range of undergraduate and graduate programs, including degrees in
+              Computer Science, Data Science, and Information Systems.
+            </p>
             <p>
-              highlight me
+              This is a great website.
             </p>
           </div>
-<<<<<<< HEAD
-
-          <dif>
-            We like computer science
-          </dif>
-=======
->>>>>>> cc9470702f2e607fcbaebf7d0326984cc6d71bfb
         </div>
       </section>
     </div>
