@@ -1,0 +1,58 @@
+.navbar {
+  height: 80px;
+  background-color: var(--nyu-white);
+  border-bottom: 1px solid var(--nyu-light-gray);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+}
+
+.navContainer {
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--nyu-black);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logoText {
+  color: var(--nyu-violet);
+}
+
+.links {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.link {
+  font-weight: 500;
+  color: var(--nyu-gray);
+}
+
+.link:hover {
+  color: var(--nyu-violet);
+}
+
+.btnLink {
+  padding: 8px 16px;
+  background-color: var(--nyu-violet);
+  color: white;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: opacity 0.2s;
+}
+
+.btnLink:hover {
+  opacity: 0.9;
+  color: white;
+}
