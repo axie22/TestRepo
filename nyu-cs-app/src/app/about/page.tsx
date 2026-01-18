@@ -23,7 +23,10 @@ export default function About() {
               Computer Science, Data Science, and Information Systems.
             </p>
             <p>
-              This is a great website.
+              This is an okay website because we need lots of final testing data for our CS course projects. Please help.
+            </p>
+            <p>
+              Life is suffering and suffering is the meaning of life.
             </p>
           </div>
         </div>
