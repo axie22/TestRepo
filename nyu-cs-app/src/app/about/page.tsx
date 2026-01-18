@@ -25,8 +25,7 @@ export default function About() {
               Village, one of the most vibrant and creative neighborhoods in New
               York City.
             </p>
-            <p>Highlight me</p>
-            <p>Hey there</p>
+            <h3>About me</h3>
           </div>
         </div>
       </section>
