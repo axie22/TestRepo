@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/components/Footer.module.css"],"sourcesContent":[".footer {\n  background-color: var(--nyu-black);\n  color: var(--nyu-white);\n  padding: 60px 0 20px;\n  margin-top: auto;\n}\n\n.footerContainer {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n  gap: 40px;\n  margin-bottom: 40px;\n}\n\n.column h3 {\n  color: var(--nyu-violet);\n  margin-bottom: 16px;\n}\n\n.column h4 {\n  color: var(--nyu-white);\n  margin-bottom: 16px;\n  font-size: 1.1rem;\n}\n\n.column p {\n  color: #cccccc;\n  margin-bottom: 8px;\n}\n\n.column ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n}\n\n.column ul li {\n  margin-bottom: 8px;\n}\n\n.column ul li a {\n  color: #cccccc;\n}\n\n.column ul li a:hover {\n  color: var(--nyu-violet);\n}\n\n.copyright {\n  text-align: center;\n  padding-top: 20px;\n  border-top: 1px solid #333;\n  color: #666;\n  font-size: 0.9rem;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;AAOA;;;;;AAKA;;;;;;AAMA;;;;;AAKA;;;;;;AAMA;;;;AAIA;;;;AAIA;;;;AAIA"}}]
+}
