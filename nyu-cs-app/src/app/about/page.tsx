@@ -2,7 +2,7 @@ import styles from '../page.module.css';
 
 export const metadata = {
   title: 'About - NYU Computer Science',
-  description: 'Learn about the CS Department at NYU',
+  description: 'Learn about the CS Department at NYU Courant Institute of Mathematical Sciences.',
 };
 
 export default function About() {
