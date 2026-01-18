@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/components/Navbar.module.css"],"sourcesContent":[".navbar {\n  height: 80px;\n  background-color: var(--nyu-white);\n  border-bottom: 1px solid var(--nyu-light-gray);\n  position: sticky;\n  top: 0;\n  z-index: 1000;\n  display: flex;\n  align-items: center;\n}\n\n.navContainer {\n  display: flex !important;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.logo {\n  font-size: 1.5rem;\n  font-weight: 700;\n  color: var(--nyu-black);\n  display: flex;\n  align-items: center;\n  gap: 10px;\n}\n\n.logoText {\n  color: var(--nyu-violet);\n}\n\n.links {\n  display: flex;\n  gap: 32px;\n  align-items: center;\n}\n\n.link {\n  font-weight: 500;\n  color: var(--nyu-gray);\n}\n\n.link:hover {\n  color: var(--nyu-violet);\n}\n\n.btnLink {\n  padding: 8px 16px;\n  background-color: var(--nyu-violet);\n  color: white;\n  border-radius: 4px;\n  font-weight: 600;\n  transition: opacity 0.2s;\n}\n\n.btnLink:hover {\n  opacity: 0.9;\n  color: white;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;AAWA;;;;;;AAMA;;;;;;;;;AASA;;;;AAIA;;;;;;AAMA;;;;;AAKA;;;;AAIA;;;;;;;;;AASA"}}]
-}
