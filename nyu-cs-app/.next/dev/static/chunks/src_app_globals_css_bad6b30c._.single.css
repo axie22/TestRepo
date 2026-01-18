@@ -1,0 +1,81 @@
+/* [project]/src/app/globals.css [app-client] (css) */
+:root {
+  --nyu-violet: #57068c;
+  --nyu-dark-violet: #3a0063;
+  --nyu-black: #111;
+  --nyu-gray: #757575;
+  --nyu-light-gray: #f2f2f2;
+  --nyu-white: #fff;
+  --max-width: 1200px;
+}
+
+html, body {
+  background-color: var(--nyu-white);
+  max-width: 100vw;
+  color: var(--nyu-black);
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color .2s;
+}
+
+a:hover {
+  color: var(--nyu-violet);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--nyu-black);
+  margin: 0;
+  font-weight: 700;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.btn {
+  background-color: var(--nyu-violet);
+  color: var(--nyu-white);
+  cursor: pointer;
+  border: 2px solid var(--nyu-violet);
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-weight: 600;
+  transition: all .3s;
+  display: inline-block;
+}
+
+.btn:hover {
+  background-color: var(--nyu-white);
+  color: var(--nyu-violet);
+}
+
+.btn-secondary {
+  color: var(--nyu-violet);
+  background-color: #0000;
+}
+
+.btn-secondary:hover {
+  background-color: var(--nyu-violet);
+  color: var(--nyu-white);
+}
+
+.section {
+  padding: 80px 0;
+}
+
+/*# sourceMappingURL=src_app_globals_css_bad6b30c._.single.css.map*/
