@@ -1,0 +1,10 @@
+{
+  "name": "testrepo",
+  "private": true,
+  "scripts": {
+    "dev": "serve public"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
