@@ -17,6 +17,9 @@ export default function About() {
               is a world-renowned center for research and education. We are located in the heart of Greenwich Village,
               one of the most vibrant and creative neighborhoods in New York City.
             </p>
+            <p>
+              highlight me
+            </p>
           </div>
         </div>
       </section>
