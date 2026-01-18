@@ -23,10 +23,13 @@ export default function About() {
               Computer Science, Data Science, and Information Systems.
             </p>
           </div>
+<<<<<<< HEAD
 
           <dif>
             We like computer science
           </dif>
+=======
+>>>>>>> cc9470702f2e607fcbaebf7d0326984cc6d71bfb
         </div>
       </section>
     </div>
