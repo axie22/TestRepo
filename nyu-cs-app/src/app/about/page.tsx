@@ -26,7 +26,7 @@ export default function About() {
               York City.
             </p>
             <h3>About me</h3>
-            <h2>me</h2>
+            <h3>Start</h3>
           </div>
         </div>
       </section>
