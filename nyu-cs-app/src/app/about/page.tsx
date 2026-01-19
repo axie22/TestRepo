@@ -28,7 +28,8 @@ export default function About() {
             <p>
               Life is suffering and suffering is the meaning of life.
             </p>
-            <p>Highlight me again</p>
+            <h3>About me</h3>
+            <h2>me</h2>
           </div>
         </div>
       </section>
