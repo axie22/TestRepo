@@ -38,7 +38,7 @@ export default function About() {
             </p>
 
             <p>
-              HIGHLIGHT ME!
+              NOW HIGHLIGHT ME PLEASE TEST!!
             </p>
           </div>
         </div>
