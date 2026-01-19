@@ -1,8 +1,8 @@
-import styles from '../page.module.css';
+import styles from "../page.module.css";
 
 export const metadata = {
-  title: 'About - NYU Computer Science',
-  description: 'Learn about the CS Department at NYU',
+  title: "About - NYU Computer Science",
+  description: "Learn about the CS Department at NYU",
 };
 
 export default function About() {
@@ -28,6 +28,7 @@ export default function About() {
             <p>
               Life is suffering and suffering is the meaning of life.
             </p>
+            <p>Highlight me again</p>
           </div>
         </div>
       </section>
